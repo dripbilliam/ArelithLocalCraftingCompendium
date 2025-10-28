@@ -1,0 +1,1658 @@
+[
+    {
+        "name": "Abeyant Template"
+    },
+    {
+        "name": "Acid Bomb"
+    },
+    {
+        "name": "Acid Flask"
+    },
+    {
+        "name": "Acid Fog"
+    },
+    {
+        "name": "Adamantine Bracer"
+    },
+    {
+        "name": "Adamantine Knuckles"
+    },
+    {
+        "name": "Adaptive Gears"
+    },
+    {
+        "name": "Alchemistic Catalyst (Greater)"
+    },
+    {
+        "name": "Alchemistic Catalyst (Lesser)"
+    },
+    {
+        "name": "Alchemistic Catalyst (Standard)"
+    },
+    {
+        "name": "Alchemist's Fire"
+    },
+    {
+        "name": "Alexandrite"
+    },
+    {
+        "name": "Amaratha"
+    },
+    {
+        "name": "Amber"
+    },
+    {
+        "name": "Amethyst"
+    },
+    {
+        "name": "Ametrine"
+    },
+    {
+        "name": "Ammonite Shell"
+    },
+    {
+        "name": "Animal Blood"
+    },
+    {
+        "name": "Animal Hide (Large)"
+    },
+    {
+        "name": "Animal Hide (Medium)"
+    },
+    {
+        "name": "Animal Hide (Small)"
+    },
+    {
+        "name": "Animal Meat (Big)"
+    },
+    {
+        "name": "Animal Meat (Medium)"
+    },
+    {
+        "name": "Animal Meat (Small)"
+    },
+    {
+        "name": "Animal Sinew"
+    },
+    {
+        "name": "Animate Dead"
+    },
+    {
+        "name": "Ankheg Shell"
+    },
+    {
+        "name": "Aquatic Snail"
+    },
+    {
+        "name": "Arm Bones"
+    },
+    {
+        "name": "Arrow Shafts"
+    },
+    {
+        "name": "Ashwood Stabilizer"
+    },
+    {
+        "name": "Aural Gland"
+    },
+    {
+        "name": "Aventurine"
+    },
+    {
+        "name": "Axe Head"
+    },
+    {
+        "name": "Azurite"
+    },
+    {
+        "name": "Balanced Hafts"
+    },
+    {
+        "name": "Bandage Roll"
+    },
+    {
+        "name": "Bane"
+    },
+    {
+        "name": "Banishment"
+    },
+    {
+        "name": "Bass"
+    },
+    {
+        "name": "Battleaxe (Bronze)"
+    },
+    {
+        "name": "Battletide"
+    },
+    {
+        "name": "Beer"
+    },
+    {
+        "name": "Beholder Eye"
+    },
+    {
+        "name": "Beljuril Gem"
+    },
+    {
+        "name": "Belladonna"
+    },
+    {
+        "name": "Berries"
+    },
+    {
+        "name": "Bioluminescent Gel"
+    },
+    {
+        "name": "Black Blade of Disaster"
+    },
+    {
+        "name": "Black Petals"
+    },
+    {
+        "name": "Blade Thirst"
+    },
+    {
+        "name": "Blank Scroll"
+    },
+    {
+        "name": "Bless"
+    },
+    {
+        "name": "Bless Weapon"
+    },
+    {
+        "name": "Blood Frenzy"
+    },
+    {
+        "name": "Blood of a Magic Creature"
+    },
+    {
+        "name": "Bloodroot Stalk"
+    },
+    {
+        "name": "Blue Tetra"
+    },
+    {
+        "name": "Bluestone"
+    },
+    {
+        "name": "Bolt (Iron)"
+    },
+    {
+        "name": "Bolt of Cloth"
+    },
+    {
+        "name": "Bolt of Silk"
+    },
+    {
+        "name": "Bone"
+    },
+    {
+        "name": "Bone Broth"
+    },
+    {
+        "name": "Book"
+    },
+    {
+        "name": "Bottle of Blueleaf Extract"
+    },
+    {
+        "name": "Bottle of Djinn Uther"
+    },
+    {
+        "name": "Brain Stem (Carrion Crawler)"
+    },
+    {
+        "name": "Brass Crown"
+    },
+    {
+        "name": "Brass Gears"
+    },
+    {
+        "name": "Bread"
+    },
+    {
+        "name": "Broomstick"
+    },
+    {
+        "name": "Burst of Glacial Wrath"
+    },
+    {
+        "name": "Camouflage"
+    },
+    {
+        "name": "Candle Holder (Gold)"
+    },
+    {
+        "name": "Candle Holder (Iron)"
+    },
+    {
+        "name": "Candle Holder (Silver)"
+    },
+    {
+        "name": "Casting Mold"
+    },
+    {
+        "name": "Chain Armor (Adamantine)"
+    },
+    {
+        "name": "Chain Armor (Iron)"
+    },
+    {
+        "name": "Chain Lightning"
+    },
+    {
+        "name": "Chainmail of the Holy Knight"
+    },
+    {
+        "name": "Charcoal"
+    },
+    {
+        "name": "Chardalyn Stone"
+    },
+    {
+        "name": "Charm Monster"
+    },
+    {
+        "name": "Cheese"
+    },
+    {
+        "name": "Chill Touch"
+    },
+    {
+        "name": "Chunk of Zardazik"
+    },
+    {
+        "name": "Clarity"
+    },
+    {
+        "name": "Clay"
+    },
+    {
+        "name": "Cloth (Large)"
+    },
+    {
+        "name": "Cloth (Medium)"
+    },
+    {
+        "name": "Cloth (Small)"
+    },
+    {
+        "name": "Cloth Dye, Black"
+    },
+    {
+        "name": "Cloth Dye, Bleach"
+    },
+    {
+        "name": "Cloth Dye, Brown"
+    },
+    {
+        "name": "Cloth Dye, Dark Blue"
+    },
+    {
+        "name": "Cloth Dye, Dark Green"
+    },
+    {
+        "name": "Cloth Dye, Dark Orange"
+    },
+    {
+        "name": "Cloth Dye, Dark Red"
+    },
+    {
+        "name": "Cloth Dye, Gold"
+    },
+    {
+        "name": "Cloth Dye, Light Blue"
+    },
+    {
+        "name": "Cloth Dye, Light Green"
+    },
+    {
+        "name": "Cloth Dye, Light Orange"
+    },
+    {
+        "name": "Cloth Dye, Light Red"
+    },
+    {
+        "name": "Cloth Dye, Pink"
+    },
+    {
+        "name": "Cloth Dye, Purple"
+    },
+    {
+        "name": "Cloth Dye, Yellow"
+    },
+    {
+        "name": "Coal"
+    },
+    {
+        "name": "Cocoa Powder"
+    },
+    {
+        "name": "Cod Liver"
+    },
+    {
+        "name": "Color Spray"
+    },
+    {
+        "name": "Combust"
+    },
+    {
+        "name": "Cone of Cold"
+    },
+    {
+        "name": "Control Undead"
+    },
+    {
+        "name": "Copper Fish Hook"
+    },
+    {
+        "name": "Cotton"
+    },
+    {
+        "name": "Crab Leg"
+    },
+    {
+        "name": "Crumpled Helmet"
+    },
+    {
+        "name": "Damask Fish Hook"
+    },
+    {
+        "name": "Dark Roe"
+    },
+    {
+        "name": "Daze"
+    },
+    {
+        "name": "Desert Flower"
+    },
+    {
+        "name": "Diamond"
+    },
+    {
+        "name": "Dismissal"
+    },
+    {
+        "name": "Displacer Beast Hide"
+    },
+    {
+        "name": "Divine Favor"
+    },
+    {
+        "name": "Dominate Person"
+    },
+    {
+        "name": "Dragon Blood"
+    },
+    {
+        "name": "Dragon Oil"
+    },
+    {
+        "name": "Dragonhide"
+    },
+    {
+        "name": "Drown"
+    },
+    {
+        "name": "Dwarven Incantation"
+    },
+    {
+        "name": "Eagle Feather"
+    },
+    {
+        "name": "Eagle's Splendor"
+    },
+    {
+        "name": "Earthquake"
+    },
+    {
+        "name": "Elemental Weapon"
+    },
+    {
+        "name": "Elite Sling"
+    },
+    {
+        "name": "Emerald"
+    },
+    {
+        "name": "Empty Spirits Bottle"
+    },
+    {
+        "name": "Emulsified Oil"
+    },
+    {
+        "name": "Enchanted Flexible Leather Suit"
+    },
+    {
+        "name": "Energy Buffer"
+    },
+    {
+        "name": "Energy Drain"
+    },
+    {
+        "name": "Enervation"
+    },
+    {
+        "name": "Essence (+1d4 Fire Damage, temporary)"
+    },
+    {
+        "name": "Essence (Giant Bane)"
+    },
+    {
+        "name": "Ettercap's Silk Gland"
+    },
+    {
+        "name": "Euklian Clay"
+    },
+    {
+        "name": "Evard's Black Tentacles"
+    },
+    {
+        "name": "Expeditious Retreat"
+    },
+    {
+        "name": "Fairy Dust"
+    },
+    {
+        "name": "Favored's Rod"
+    },
+    {
+        "name": "Fear"
+    },
+    {
+        "name": "Fermented Mackerel"
+    },
+    {
+        "name": "Fine Leather Armor"
+    },
+    {
+        "name": "Fine Seafood Platter"
+    },
+    {
+        "name": "Fine Silk Shirt"
+    },
+    {
+        "name": "Fire Agate"
+    },
+    {
+        "name": "Fire Beetle's Belly"
+    },
+    {
+        "name": "Fire Bomb"
+    },
+    {
+        "name": "Fire Opal"
+    },
+    {
+        "name": "Firewood"
+    },
+    {
+        "name": "Fish"
+    },
+    {
+        "name": "Fish Bones"
+    },
+    {
+        "name": "Fish Guts"
+    },
+    {
+        "name": "Fixture: Barrel"
+    },
+    {
+        "name": "Fixture: Bed"
+    },
+    {
+        "name": "Fixture: Cabinet (Maps)"
+    },
+    {
+        "name": "Fixture: Cabinet (Mixed)"
+    },
+    {
+        "name": "Fixture: Couch"
+    },
+    {
+        "name": "Fixture: Crystal Ball (Small)"
+    },
+    {
+        "name": "Fixture: Cushions"
+    },
+    {
+        "name": "Fixture: Free Standing Mirror"
+    },
+    {
+        "name": "Fixture: Potted Fern"
+    },
+    {
+        "name": "Fixture: Science Tube"
+    },
+    {
+        "name": "Fixture: Wooden Coffin (Closed)"
+    },
+    {
+        "name": "Fixture: Wooden Coffin (Open)"
+    },
+    {
+        "name": "Flame Strike"
+    },
+    {
+        "name": "Flameberry"
+    },
+    {
+        "name": "Flare"
+    },
+    {
+        "name": "Flask of Djinn Uther"
+    },
+    {
+        "name": "Flask of Oil"
+    },
+    {
+        "name": "Flawed Chardalyn Stone"
+    },
+    {
+        "name": "Flea Ridden Blanket"
+    },
+    {
+        "name": "Flesh to Stone"
+    },
+    {
+        "name": "Flexible Leather Suit"
+    },
+    {
+        "name": "Flour"
+    },
+    {
+        "name": "Fluorspar"
+    },
+    {
+        "name": "Food Ration"
+    },
+    {
+        "name": "Fossil Amber"
+    },
+    {
+        "name": "Fragments of Theurglass"
+    },
+    {
+        "name": "Freedom of Movement"
+    },
+    {
+        "name": "Fried Egg"
+    },
+    {
+        "name": "Fruit"
+    },
+    {
+        "name": "Full Plate Armor (Adamantine)"
+    },
+    {
+        "name": "Garlic"
+    },
+    {
+        "name": "Garnet"
+    },
+    {
+        "name": "Gate"
+    },
+    {
+        "name": "Gem Dust (Alexandrite)"
+    },
+    {
+        "name": "Gem Dust (Amber)"
+    },
+    {
+        "name": "Gem Dust (Amethyst)"
+    },
+    {
+        "name": "Gem Dust (Aventurine)"
+    },
+    {
+        "name": "Gem Dust (Diamond)"
+    },
+    {
+        "name": "Gem Dust (Emerald)"
+    },
+    {
+        "name": "Gem Dust (Fire Agate)"
+    },
+    {
+        "name": "Gem Dust (Fire Opal)"
+    },
+    {
+        "name": "Gem Dust (Fluorspar)"
+    },
+    {
+        "name": "Gem Dust (Garnet)"
+    },
+    {
+        "name": "Gem Dust (Greenstone)"
+    },
+    {
+        "name": "Gem Dust (Malachite)"
+    },
+    {
+        "name": "Gem Dust (Onyx)"
+    },
+    {
+        "name": "Gem Dust (Phenalope)"
+    },
+    {
+        "name": "Gem Dust (Ruby)"
+    },
+    {
+        "name": "Gem Dust (Sapphire)"
+    },
+    {
+        "name": "Gem Dust (Topaz)"
+    },
+    {
+        "name": "Gem Dust (Tourmaline)"
+    },
+    {
+        "name": "Ghostly Visage"
+    },
+    {
+        "name": "Giant Bone"
+    },
+    {
+        "name": "Giant's Tooth"
+    },
+    {
+        "name": "Glass"
+    },
+    {
+        "name": "Glass Bottle"
+    },
+    {
+        "name": "Glass Vial"
+    },
+    {
+        "name": "Glimshell Shard"
+    },
+    {
+        "name": "Gloves of Skill"
+    },
+    {
+        "name": "Gloweye"
+    },
+    {
+        "name": "Glyph of Warding"
+    },
+    {
+        "name": "Gold Leaf"
+    },
+    {
+        "name": "Golden Crown"
+    },
+    {
+        "name": "Golden Scale"
+    },
+    {
+        "name": "Golem Heart"
+    },
+    {
+        "name": "Grand Masterly Heavy Crossbow"
+    },
+    {
+        "name": "Granite"
+    },
+    {
+        "name": "Greater Magic Weapon"
+    },
+    {
+        "name": "Greater Planar Binding"
+    },
+    {
+        "name": "Greater Restoration"
+    },
+    {
+        "name": "Greater Seagod Offering"
+    },
+    {
+        "name": "Greater Spell Breach"
+    },
+    {
+        "name": "Greater Spell Mantle"
+    },
+    {
+        "name": "Green Tetra"
+    },
+    {
+        "name": "Greensteel Bracer"
+    },
+    {
+        "name": "Greenstone"
+    },
+    {
+        "name": "Gulper"
+    },
+    {
+        "name": "Gutted Eel"
+    },
+    {
+        "name": "Gutted Sardine"
+    },
+    {
+        "name": "Hardening Finish"
+    },
+    {
+        "name": "Hardwood"
+    },
+    {
+        "name": "Hardwood Resins"
+    },
+    {
+        "name": "Harnak Seeds"
+    },
+    {
+        "name": "Haste"
+    },
+    {
+        "name": "Head of a Giant"
+    },
+    {
+        "name": "Healing Draught"
+    },
+    {
+        "name": "Heavy Crossbow"
+    },
+    {
+        "name": "Helmet (Mithral)"
+    },
+    {
+        "name": "Helmet (Steel)"
+    },
+    {
+        "name": "Hermetic Totem"
+    },
+    {
+        "name": "Holy Water"
+    },
+    {
+        "name": "Honey"
+    },
+    {
+        "name": "Honey Glazed Ham"
+    },
+    {
+        "name": "Horn of a Magical Creature"
+    },
+    {
+        "name": "Ice Storm"
+    },
+    {
+        "name": "Iceberry"
+    },
+    {
+        "name": "Ichor"
+    },
+    {
+        "name": "Illithid's Tentacle"
+    },
+    {
+        "name": "Improved Invisibility"
+    },
+    {
+        "name": "Impure Shard of Zardazik"
+    },
+    {
+        "name": "Inferno"
+    },
+    {
+        "name": "Infestation of Maggots"
+    },
+    {
+        "name": "Ingot (Adamantine)"
+    },
+    {
+        "name": "Ingot (Brass)"
+    },
+    {
+        "name": "Ingot (Bronze)"
+    },
+    {
+        "name": "Ingot (Copper)"
+    },
+    {
+        "name": "Ingot (Gold)"
+    },
+    {
+        "name": "Ingot (Greensteel)"
+    },
+    {
+        "name": "Ingot (Iron)"
+    },
+    {
+        "name": "Ingot (Lead)"
+    },
+    {
+        "name": "Ingot (Mithral)"
+    },
+    {
+        "name": "Ingot (Silver)"
+    },
+    {
+        "name": "Ingot (Steel)"
+    },
+    {
+        "name": "Ingot (Tin)"
+    },
+    {
+        "name": "Ingot (Zinc)"
+    },
+    {
+        "name": "Initiate's Conduit (Sorcerer)"
+    },
+    {
+        "name": "Intact Theurglass"
+    },
+    {
+        "name": "Ioun Stone (Red)"
+    },
+    {
+        "name": "Iron Fish Hook"
+    },
+    {
+        "name": "Isaac's Lesser Missile Storm"
+    },
+    {
+        "name": "Jade"
+    },
+    {
+        "name": "Jellied Eel"
+    },
+    {
+        "name": "Jelly"
+    },
+    {
+        "name": "Jewel Shrimp"
+    },
+    {
+        "name": "Juvenile Megalodon"
+    },
+    {
+        "name": "Kaeth Beans"
+    },
+    {
+        "name": "Kaeth Cherries"
+    },
+    {
+        "name": "Keen Edge"
+    },
+    {
+        "name": "Kelp"
+    },
+    {
+        "name": "King's Crown"
+    },
+    {
+        "name": "Lady's Tear"
+    },
+    {
+        "name": "Large Shield (Wood)"
+    },
+    {
+        "name": "Leafy Salad"
+    },
+    {
+        "name": "Leather (Large)"
+    },
+    {
+        "name": "Leather (Medium)"
+    },
+    {
+        "name": "Leather (Small)"
+    },
+    {
+        "name": "Leather Armor"
+    },
+    {
+        "name": "Leather Torso"
+    },
+    {
+        "name": "Leaves of the Dreaming Tree"
+    },
+    {
+        "name": "Lesser Planar Binding"
+    },
+    {
+        "name": "Lesser Ranger's Studded Leather"
+    },
+    {
+        "name": "Lesser Slippers of Soft Movement"
+    },
+    {
+        "name": "Longsword (Steel)"
+    },
+    {
+        "name": "Lucky Fish Hook"
+    },
+    {
+        "name": "Luminous Scale"
+    },
+    {
+        "name": "Mackerel"
+    },
+    {
+        "name": "Mackerel Chunk"
+    },
+    {
+        "name": "Mage Armor"
+    },
+    {
+        "name": "Magic Vestment"
+    },
+    {
+        "name": "Magic Weapon"
+    },
+    {
+        "name": "Magical Potion Bottle"
+    },
+    {
+        "name": "Malachite"
+    },
+    {
+        "name": "Malyss Root"
+    },
+    {
+        "name": "Manacles (Adamantine)"
+    },
+    {
+        "name": "Manacles (Iron)"
+    },
+    {
+        "name": "Mandrake Root"
+    },
+    {
+        "name": "Marble"
+    },
+    {
+        "name": "Mastercraft Barbed Whip"
+    },
+    {
+        "name": "Masterly Heavy Crossbow"
+    },
+    {
+        "name": "Masterly Longsword (Iron)"
+    },
+    {
+        "name": "Masterly Sling"
+    },
+    {
+        "name": "Masterly Spear (Iron)"
+    },
+    {
+        "name": "Masterly Whip"
+    },
+    {
+        "name": "Milk"
+    },
+    {
+        "name": "Mind Blank"
+    },
+    {
+        "name": "Mintspear Leaf"
+    },
+    {
+        "name": "Mistreater (Damask)"
+    },
+    {
+        "name": "Mithral Bracer"
+    },
+    {
+        "name": "Mithral Dust"
+    },
+    {
+        "name": "Mojo"
+    },
+    {
+        "name": "Moonstone"
+    },
+    {
+        "name": "Mullet"
+    },
+    {
+        "name": "Murk Prawn"
+    },
+    {
+        "name": "Myconid Fungi Essence"
+    },
+    {
+        "name": "Natural Gums"
+    },
+    {
+        "name": "Nuts"
+    },
+    {
+        "name": "Obsidian"
+    },
+    {
+        "name": "Ogre's Tooth"
+    },
+    {
+        "name": "Onyx"
+    },
+    {
+        "name": "Orange Roe"
+    },
+    {
+        "name": "Orange Topaz"
+    },
+    {
+        "name": "Orc's Tooth"
+    },
+    {
+        "name": "Padded Armor"
+    },
+    {
+        "name": "Padded Armor +2"
+    },
+    {
+        "name": "Painter's Palette"
+    },
+    {
+        "name": "Pearl"
+    },
+    {
+        "name": "Pelt of a Yeti"
+    },
+    {
+        "name": "Perfect Chardalyn Stone"
+    },
+    {
+        "name": "Phenalope"
+    },
+    {
+        "name": "Pick Head"
+    },
+    {
+        "name": "Pine Tar"
+    },
+    {
+        "name": "Pink Tetra"
+    },
+    {
+        "name": "Planar Binding"
+    },
+    {
+        "name": "Poison: Arsenic"
+    },
+    {
+        "name": "Poison: Strychnine"
+    },
+    {
+        "name": "Portal Runestone (Damaged)"
+    },
+    {
+        "name": "Pot of Dirt"
+    },
+    {
+        "name": "Potion of Barkskin"
+    },
+    {
+        "name": "Potion of Bull's Strength"
+    },
+    {
+        "name": "Potion of Cat's Grace"
+    },
+    {
+        "name": "Potion of Clarity"
+    },
+    {
+        "name": "Potion of Cure Moderate Wounds"
+    },
+    {
+        "name": "Potion of Heal"
+    },
+    {
+        "name": "Potion of Invisibility"
+    },
+    {
+        "name": "Potion of Ironguts"
+    },
+    {
+        "name": "Potion of Owl's Wisdom"
+    },
+    {
+        "name": "Potion of Warding"
+    },
+    {
+        "name": "Printing Ink"
+    },
+    {
+        "name": "Pure Chunk of Zardazik"
+    },
+    {
+        "name": "Quarterstaff"
+    },
+    {
+        "name": "Quartz Crystal"
+    },
+    {
+        "name": "Quill Pen"
+    },
+    {
+        "name": "Rags"
+    },
+    {
+        "name": "Rainbow Agate"
+    },
+    {
+        "name": "Rainbow Scale"
+    },
+    {
+        "name": "Rare Hardwood"
+    },
+    {
+        "name": "Raw Gem (Alexandrite)"
+    },
+    {
+        "name": "Raw Gem (Amaratha)"
+    },
+    {
+        "name": "Raw Gem (Amber)"
+    },
+    {
+        "name": "Raw Gem (Amethyst)"
+    },
+    {
+        "name": "Raw Gem (Ametrine)"
+    },
+    {
+        "name": "Raw Gem (Aventurine)"
+    },
+    {
+        "name": "Raw Gem (Azurite)"
+    },
+    {
+        "name": "Raw Gem (Beljuril)"
+    },
+    {
+        "name": "Raw Gem (Bluestone)"
+    },
+    {
+        "name": "Raw Gem (Diamond)"
+    },
+    {
+        "name": "Raw Gem (Emerald)"
+    },
+    {
+        "name": "Raw Gem (Fire Agate)"
+    },
+    {
+        "name": "Raw Gem (Fire Opal)"
+    },
+    {
+        "name": "Raw Gem (Fluorspar)"
+    },
+    {
+        "name": "Raw Gem (Fossil Amber)"
+    },
+    {
+        "name": "Raw Gem (Garnet)"
+    },
+    {
+        "name": "Raw Gem (Greenstone)"
+    },
+    {
+        "name": "Raw Gem (Jade)"
+    },
+    {
+        "name": "Raw Gem (Malachite)"
+    },
+    {
+        "name": "Raw Gem (Moonstone)"
+    },
+    {
+        "name": "Raw Gem (Onyx)"
+    },
+    {
+        "name": "Raw Gem (Orange Topaz)"
+    },
+    {
+        "name": "Raw Gem (Phenalope)"
+    },
+    {
+        "name": "Raw Gem (Rainbow Agate)"
+    },
+    {
+        "name": "Raw Gem (Rogue Stone)"
+    },
+    {
+        "name": "Raw Gem (Rose Quartz)"
+    },
+    {
+        "name": "Raw Gem (Rosenstone)"
+    },
+    {
+        "name": "Raw Gem (Royal Tourmaline)"
+    },
+    {
+        "name": "Raw Gem (Ruby)"
+    },
+    {
+        "name": "Raw Gem (Sapphire)"
+    },
+    {
+        "name": "Raw Gem (Seer Stone)"
+    },
+    {
+        "name": "Raw Gem (Star Ruby)"
+    },
+    {
+        "name": "Raw Gem (Star Sapphire)"
+    },
+    {
+        "name": "Raw Gem (Sunstone)"
+    },
+    {
+        "name": "Raw Gem (Topaz)"
+    },
+    {
+        "name": "Raw Gem (Tourmaline)"
+    },
+    {
+        "name": "Raw Gem (Uvarovite)"
+    },
+    {
+        "name": "Redfin Sorn"
+    },
+    {
+        "name": "Regenerate"
+    },
+    {
+        "name": "Remove Fear"
+    },
+    {
+        "name": "Resurrection"
+    },
+    {
+        "name": "Rice"
+    },
+    {
+        "name": "Ripplebark Fungus"
+    },
+    {
+        "name": "Roast Boar Leg"
+    },
+    {
+        "name": "Rock Chunk (Adamantine)"
+    },
+    {
+        "name": "Rock Chunk (Arjale)"
+    },
+    {
+        "name": "Rock Chunk (Copper)"
+    },
+    {
+        "name": "Rock Chunk (Gold)"
+    },
+    {
+        "name": "Rock Chunk (Iron)"
+    },
+    {
+        "name": "Rock Chunk (Lead)"
+    },
+    {
+        "name": "Rock Chunk (Mithral)"
+    },
+    {
+        "name": "Rock Chunk (Nitharit)"
+    },
+    {
+        "name": "Rock Chunk (Silver)"
+    },
+    {
+        "name": "Rock Chunk (Tin)"
+    },
+    {
+        "name": "Rock Chunk (Zinc)"
+    },
+    {
+        "name": "Rogue Stone"
+    },
+    {
+        "name": "Rose Quartz"
+    },
+    {
+        "name": "Rosenstone"
+    },
+    {
+        "name": "Rough Fragments of Theurglass"
+    },
+    {
+        "name": "Royal Outfit"
+    },
+    {
+        "name": "Royal Tourmaline"
+    },
+    {
+        "name": "Ruby"
+    },
+    {
+        "name": "Ruined Armour"
+    },
+    {
+        "name": "Runic Fish Hook"
+    },
+    {
+        "name": "Rusty Spring"
+    },
+    {
+        "name": "Sail Fin"
+    },
+    {
+        "name": "Salt"
+    },
+    {
+        "name": "Sample of Blueleaf Extract"
+    },
+    {
+        "name": "Sample of Djinn Uther"
+    },
+    {
+        "name": "Sand"
+    },
+    {
+        "name": "Sapphire"
+    },
+    {
+        "name": "Sardine"
+    },
+    {
+        "name": "Sardine Skewer"
+    },
+    {
+        "name": "Sassone Leaves"
+    },
+    {
+        "name": "Sausages"
+    },
+    {
+        "name": "Scale Armor (Iron)"
+    },
+    {
+        "name": "Scarfinned Flatfish"
+    },
+    {
+        "name": "Seagull Feather"
+    },
+    {
+        "name": "Seer's Stone"
+    },
+    {
+        "name": "Serene Visage"
+    },
+    {
+        "name": "Shadow Conjuration"
+    },
+    {
+        "name": "Shadow Shield"
+    },
+    {
+        "name": "Shaped Obsidian"
+    },
+    {
+        "name": "Shaped Obsidian (Superior)"
+    },
+    {
+        "name": "Shark Fin"
+    },
+    {
+        "name": "Shark Fin Soup"
+    },
+    {
+        "name": "Shark Tooth"
+    },
+    {
+        "name": "Shield"
+    },
+    {
+        "name": "Siege Projectile: Firepot"
+    },
+    {
+        "name": "Siege Projectile: Heavy Javelin"
+    },
+    {
+        "name": "Siege Projectile: Javelin"
+    },
+    {
+        "name": "Siege Projectile: Powder Stone"
+    },
+    {
+        "name": "Silk Gland"
+    },
+    {
+        "name": "Simple Seafood Platter"
+    },
+    {
+        "name": "Skeleton's Knuckle"
+    },
+    {
+        "name": "Skull"
+    },
+    {
+        "name": "Skull Emblem"
+    },
+    {
+        "name": "Slay Living"
+    },
+    {
+        "name": "Small Seed Balm"
+    },
+    {
+        "name": "Small Shield (Wood)"
+    },
+    {
+        "name": "Small Spider"
+    },
+    {
+        "name": "Softwood"
+    },
+    {
+        "name": "Softwood (Ancient Yew)"
+    },
+    {
+        "name": "Sorn Fillet"
+    },
+    {
+        "name": "Spear (Bronze)"
+    },
+    {
+        "name": "Spear (Iron)"
+    },
+    {
+        "name": "Spear (Steel)"
+    },
+    {
+        "name": "Speckled Egg"
+    },
+    {
+        "name": "Spell Components"
+    },
+    {
+        "name": "Spices"
+    },
+    {
+        "name": "Spider Silk"
+    },
+    {
+        "name": "Spider Venom, Deadly"
+    },
+    {
+        "name": "Spirit"
+    },
+    {
+        "name": "Squid"
+    },
+    {
+        "name": "Star Ruby"
+    },
+    {
+        "name": "Star Sapphire"
+    },
+    {
+        "name": "Stinger Barb"
+    },
+    {
+        "name": "Stingray Barb"
+    },
+    {
+        "name": "Stone to Flesh"
+    },
+    {
+        "name": "Stonefish Spine"
+    },
+    {
+        "name": "Strideleaf"
+    },
+    {
+        "name": "Striped Toadstool Flesh"
+    },
+    {
+        "name": "Strychnine"
+    },
+    {
+        "name": "Strychnine Seeds"
+    },
+    {
+        "name": "Studded Leather Armor"
+    },
+    {
+        "name": "Sturdy Wood Shield"
+    },
+    {
+        "name": "Sugar"
+    },
+    {
+        "name": "Summon Creature IV"
+    },
+    {
+        "name": "Sunburst"
+    },
+    {
+        "name": "Sunstone"
+    },
+    {
+        "name": "Suspicious Ingredients"
+    },
+    {
+        "name": "Sweetberry"
+    },
+    {
+        "name": "Tanning Acid"
+    },
+    {
+        "name": "Tasha's Hideous Laughter"
+    },
+    {
+        "name": "Tentacle"
+    },
+    {
+        "name": "Thighbone"
+    },
+    {
+        "name": "Toad Legs"
+    },
+    {
+        "name": "Topaz"
+    },
+    {
+        "name": "Torch"
+    },
+    {
+        "name": "Tough Shell"
+    },
+    {
+        "name": "Tourmaline"
+    },
+    {
+        "name": "Toxic Stinger"
+    },
+    {
+        "name": "Travel Provisions"
+    },
+    {
+        "name": "Trout"
+    },
+    {
+        "name": "True Seeing"
+    },
+    {
+        "name": "True Strike"
+    },
+    {
+        "name": "Undeath's Eternal Foe"
+    },
+    {
+        "name": "Uvarovite"
+    },
+    {
+        "name": "Vampiric Touch"
+    },
+    {
+        "name": "Venom Sack (Aranea)"
+    },
+    {
+        "name": "Venom Sack (Asp)"
+    },
+    {
+        "name": "Venom Sack (Beblith)"
+    },
+    {
+        "name": "Venom Sack (Black Slaad)"
+    },
+    {
+        "name": "Vesture"
+    },
+    {
+        "name": "Vial of Blueleaf Extract"
+    },
+    {
+        "name": "Vial of Preserved Blood"
+    },
+    {
+        "name": "Violet-Eye Cod"
+    },
+    {
+        "name": "Vitrilymph"
+    },
+    {
+        "name": "Wail of the Banshee"
+    },
+    {
+        "name": "Water"
+    },
+    {
+        "name": "Wax"
+    },
+    {
+        "name": "Web"
+    },
+    {
+        "name": "Whale Oil"
+    },
+    {
+        "name": "Whaler's Cry"
+    },
+    {
+        "name": "Wine"
+    },
+    {
+        "name": "Wizards Staff"
+    },
+    {
+        "name": "Wolfsbane"
+    },
+    {
+        "name": "Word of Faith"
+    },
+    {
+        "name": "Writing Paper"
+    },
+    {
+        "name": "Yarrow Leaves"
+    }
+]

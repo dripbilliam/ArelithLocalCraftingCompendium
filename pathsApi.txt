@@ -1,0 +1,5 @@
+https://astrolabe.nwnarelith.com/api/crafting/skills
+
+https://astrolabe.nwnarelith.com/api/crafting/recipes
+
+https://astrolabe.nwnarelith.com/api/crafting/inputs

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crafting Compendium</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <h1 class="title">Crafting Compendium</h1>
+            <p class="subtitle">Your personal crafting journal, select a craft skill to start finding the recipe you are looking for. Recipes are sorted by craft skill and category, or you can view all recipes available.</p>
+        </header>
+
+        <!-- Breadcrumb Navigation -->
+        <nav class="breadcrumb-nav" id="breadcrumbs">
+            <span class="breadcrumb-item active">Compendium</span>
+        </nav>
+
+        <!-- Search Bar -->
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search recipes, ingredients, feats, races... (Press Enter or click 🔍 to search)" class="search-input">
+            <button id="searchBtn" class="search-btn" title="Click to search">🔍</button>
+        </div>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Home View -->
+            <div id="homeView" class="view active">
+                <div class="skill-grid">
+                    <div class="skill-card" data-view="all-recipes">
+                        <h3>All Recipes <span class="count">(1996)</span></h3>
+                    </div>
+                    <div class="skill-card" data-view="all-ingredients">
+                        <h3>All Ingredients <span class="count">(552)</span></h3>
+                    </div>
+                    <div class="skill-card" data-skill="1">
+                        <h3>Carpentry <span class="count">(330)</span></h3>
+                    </div>
+                    <div class="skill-card" data-skill="2">
+                        <h3>Herbalism <span class="count">(281)</span></h3>
+                    </div>
+                    <div class="skill-card" data-skill="3">
+                        <h3>Art Crafting <span class="count">(328)</span></h3>
+                    </div>
+                    <div class="skill-card" data-skill="4">
+                        <h3>Smithing <span class="count">(741)</span></h3>
+                    </div>
+                    <div class="skill-card" data-skill="5">
+                        <h3>Alchemy <span class="count">(143)</span></h3>
+                    </div>
+                    <div class="skill-card" data-skill="6">
+                        <h3>Tailoring <span class="count">(173)</span></h3>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Recipe List View -->
+            <div id="recipeListView" class="view">
+                <div class="recipe-list" id="recipeList">
+                    <!-- Recipes will be populated here -->
+                </div>
+            </div>
+
+            <!-- Recipe Detail View -->
+            <div id="recipeDetailView" class="view">
+                <div class="recipe-detail" id="recipeDetail">
+                    <!-- Recipe details will be populated here -->
+                </div>
+            </div>
+
+            <!-- Ingredient List View -->
+            <div id="ingredientListView" class="view">
+                <div class="ingredient-list" id="ingredientList">
+                    <!-- Ingredients will be populated here -->
+                </div>
+            </div>
+
+            <!-- Search Results View -->
+            <div id="searchResultsView" class="view">
+                <div class="search-results" id="searchResults">
+                    <!-- Search results will be populated here -->
+                </div>
+            </div>
+        </main>
+
+        <!-- Loading Indicator -->
+        <div id="loadingIndicator" class="loading-indicator">
+            <div class="spinner"></div>
+            <p>Loading...</p>
+        </div>
+    </div>
+
+    <script src="js/api.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

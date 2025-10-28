@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "count": 330,
+        "name": "Carpentry"
+    },
+    {
+        "id": 2,
+        "count": 281,
+        "name": "Herbalism"
+    },
+    {
+        "id": 3,
+        "count": 328,
+        "name": "Art Crafting"
+    },
+    {
+        "id": 4,
+        "count": 741,
+        "name": "Smithing"
+    },
+    {
+        "id": 5,
+        "count": 143,
+        "name": "Alchemy"
+    },
+    {
+        "id": 6,
+        "count": 173,
+        "name": "Tailoring"
+    }
+]
