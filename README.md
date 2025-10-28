@@ -14,7 +14,6 @@ A desktop application built with Electron for browsing NWN Arelith crafting reci
 - **Breadcrumb Navigation**: Easy navigation with visual breadcrumbs
 - **Interactive Tags**: Click on feats, races, or classes to search for related recipes
 - **Visual Indicators**: Recipe cards show icons for restriction and feat requirements
-- **Dark Fantasy Theme**: UI designed to match the NWN Arelith aesthetic
 - **Offline Support**: Cached data for offline browsing
 - **Keyboard Shortcuts**: 
   - `Ctrl/Cmd + F`: Focus search
@@ -96,40 +95,6 @@ src/
 - Search functionality available from any screen
 - Keyboard shortcuts for power users
 
-## Development
-
-### Adding Features
-- **API Service** (`api.js`): Handles data fetching and caching
-- **UI Manager** (`ui.js`): Manages view transitions and user interactions
-- **Main App** (`app.js`): Application initialization and state management
-
-### Styling
-The CSS uses a dark fantasy theme with:
-- Dark backgrounds with green/blue accent colors
-- Animated hover effects
-- Responsive grid layouts
-- Custom scrollbar styling
-
-### Data Caching
-The application implements intelligent caching:
-- Data is cached after first fetch
-- Automatic refresh every 30 minutes
-- Fallback to local JSON files if API is unavailable
-
-## Troubleshooting
-
-### Application Won't Start
-- Ensure Node.js is installed and up to date
-- Try deleting `node_modules` and running `npm install` again
-
-### Data Not Loading
-- Check internet connection for API access
-- Local fallback data should load if API is unavailable
-- Check browser console for error messages (enable DevTools with `npm run dev`)
-
-### Performance Issues
-- Clear application cache by restarting
-- Data is cached to improve performance after initial load
 
 ## License
 
