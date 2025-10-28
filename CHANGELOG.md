@@ -36,7 +36,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Technical Features
 - **API Integration**: Three Arelith API endpoints with fallback support
 - **Cache System**: TTL-based caching (30min-2hr depending on data type)
-- **Data Processing**: Handles both legacy string arrays and modern object arrays
 - **Performance Optimization**: Background data loading and intelligent caching
 - **Error Recovery**: Graceful degradation when API calls fail
 
